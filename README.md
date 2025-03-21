@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdugard3&show_icons=true&locale=en" alt="jdugard3" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=jdugard3" alt="jdugard3" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=jdugard3&theme=dark&hide_border=true" alt="jdugard3" /></p>
