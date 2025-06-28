@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jdugard3@gmail.com**
 
-- 🌐 Portfolio Website: [(https://jamesdugard.dev/)]((https://jamesdugard.dev/))
+- 🌐 Portfolio Website: https://jamesdugard.dev/
 
 - ⚡ Fun fact **I also play music**
 
